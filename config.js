@@ -59,18 +59,15 @@ global.ppulsa2 = '088229683561'
 global.psaweria = 'https://saweria.com/kannabotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287708773367'
-global.nomorown = '6288229683561'
-global.namebot = 'Lord-Botz'
-global.nameown = 'Ammar-Executed'
+global.nomorbot = '14179019328'
+global.nomorown = '6281276709668'
+global.namebot = 'ReighBot'
+global.nameown = 'Reigh'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['6287708773367'],
-  ['6288229683561', '⌬ Ammar Ganz', true]
+['6281276709668', 'Reigh', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = ['6288229683561'] // Want some help?
@@ -116,13 +113,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Lord Botz ⁩㊣ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Lord - Khun˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Lord 𝗕𝗢𝗧'
+global.wm = 'ReighBot' //Main Watermark
+global.wm2 = 'ReighBot'
+global.wm3 = 'ReighBot'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
-global.author = '                「 Lord BOT あ⁩ 」'
+global.author = 'Reigh'
 
 
 /*============== LOGO ==============*/
@@ -189,8 +186,8 @@ global.lolm = 'Ⓛ'
 global.htjava = '⫹⫺' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
-global.stickpack = '.'
-global.stickauth = `☂︎ Lord Botz\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickpack = 'ReighBot'
+global.stickauth = `ReighBot\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
